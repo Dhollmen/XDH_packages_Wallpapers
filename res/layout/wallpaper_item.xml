@@ -15,7 +15,7 @@
 -->
 
 <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="100dp"
-    android:layout_height="100dp"
+    android:layout_width="112dp"
+    android:layout_height="112dp"
     android:scaleType="fitCenter"
     android:focusable="true" />
